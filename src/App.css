@@ -1,0 +1,321 @@
+.header {
+    background-image: url("./images/lumber-84678.jpg");
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.titlebanner {
+    color: rgb(255, 255, 255);
+    border-style: inset;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.tituloGeneral {
+    margin-top: 3%;
+    text-shadow: black 2px 2px 2px;
+}
+
+.nav {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+
+.botonesLinks {
+    color:rgba(73, 17, 0, 0.877);
+    transition-duration: 500ms;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.botonesLinks:hover {
+    background-color: rgba(73, 17, 0, 0.877);
+    color: rgb(255, 255, 255);
+    transition-duration: 200ms;
+    padding-left: 7px;
+    padding-right: 7px;
+    box-shadow: inset 0px -5px rgba(0, 0, 0, 1);
+}
+
+.ContactosPre {
+    margin-top: 3px;
+}
+
+.ContactosPre:hover {
+    box-shadow: inset 0px -5px rgba(0, 0, 0, 1);
+}
+
+.bodyy {
+    background-image: url("./images/guitar-1836655.jpg");
+}
+
+.perfil {
+    background-image: url("./images/guitar-1836655.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.imgperfil img{
+    width: 70%;
+    transition: 500ms;
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.imgperfil img:hover{
+    width: 78%;
+}
+
+.textperfil p{
+    background-color: rgba(0, 0, 0, 0.719);
+    color: rgb(255, 255, 255);
+    width: 90%;
+    padding: 8%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 1%;
+    text-shadow: black 1px 1px 1px;
+    transition: 500ms;
+}
+
+.textperfil p:hover{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 1);
+    color: rgb(255, 255, 255);
+    margin-right: 5%;
+    margin-left: 5%;
+    text-shadow: black 1px 1px 1px;
+}
+
+.h6perfil{
+    color: rgb(247, 158, 56);
+    text-shadow: black 2px 2px 2px;
+    margin-top: 0;
+}
+
+.UltimasGuitarras {
+    background-image: url("./images/back-items.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tituloUltGui {
+    margin-bottom: 0px;
+    color: aliceblue;
+    text-shadow: rgb(0, 0, 0) 1px 1px 1px;
+}
+
+.tituloUltGui div{
+    box-shadow: inset 0px -2px rgba(0, 0, 0, 1);
+    transition: 1000ms;
+    margin-top: 20px;
+}
+
+.imgItem img{
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-bottom: 4%;
+    box-shadow: 2px -2px rgba(0, 0, 0, 1);
+    transition: 500ms;
+}
+
+.imgItem img:hover{
+    width: 65%;
+    box-shadow: 5px -5px rgba(0, 0, 0, 1);
+    transition: 500ms;
+}
+
+.pItem{
+    margin-top: 3%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.459);
+    height: 30px;
+    text-align: center;
+    transition: 500ms;
+    overflow: hidden;
+}
+
+.pItem:hover{
+    color: rgb(255, 255, 255);
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+}
+
+.pItem p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    text-shadow: rgb(0, 0, 0) 0px 0px 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.pItem strong{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(247, 158, 56);
+    text-align: center;
+    text-shadow: rgb(0, 0, 0) 0px 0px 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.vermas p{
+    margin-bottom: 30%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+
+}
+
+.footer {
+    background-color: black;
+    color: aliceblue;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.contentFooter {
+    box-shadow: 0px 2px rgb(255, 255, 255);
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.divGuitarras {
+    background-image: url("./images/fondo-guitarras.jpg");
+    background-repeat:no-repeat;
+    overflow: hidden;
+}
+
+.imgGuitar img{
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 20%;
+    transition: 500ms;
+}
+
+.textGuitar div{
+    background-color: rgba(0, 0, 0, 0.719);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    box-shadow: 3px -3px rgb(255, 255, 255);
+    text-shadow: black 1px 1px 1px;
+    transition: 500ms;
+}
+
+.textGuitar div:hover{
+    background-color: rgba(0, 0, 0, 1);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-shadow: black 1px 1px 1px;
+    box-shadow: 6px -6px rgb(255, 255, 255);
+}
+
+.desGuitar{
+    color: rgb(247, 158, 56);
+    text-shadow: black 2px 2px 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.lineaSep h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.lineaSep{
+    margin-top: 200px;
+    color: aliceblue;
+    text-shadow: black 2px 2px 2px;
+    margin-bottom: 0px;
+}
+
+.botones div{
+    margin-right: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.formulario {
+    background-image: url("./images/cont-wal.jpg");
+}
+
+.tituloForm {
+    padding-top: 2%;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: black 2px 2px 2px;
+}
+
+.tituloForm strong{
+    color: rgb(247, 158, 56);
+    text-shadow: black 2px 2px 2px;
+}
+
+.formandtitle {
+    background-color: rgba(0, 0, 0, 0.466);
+    box-shadow: 2px -2px rgb(24, 24, 24);
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-right: 4%;
+    margin-left: 4%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    transition: 500ms;
+}
+
+.formandtitle:hover {
+    background-color: rgba(0, 0, 0, 0.466);
+    box-shadow: 4px -4px rgb(0, 0, 0);
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-right: 4%;
+    margin-left: 4%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+
+.formandtitle input {
+    text-align: center;
+    margin-bottom: 5%;
+    width: 96%;
+}
+
+.flechaizquierda img{
+    width: 50px;
+}
+
+.flechaderecha img{
+    width: 50px;
+}
